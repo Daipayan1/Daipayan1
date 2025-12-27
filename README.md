@@ -15,7 +15,7 @@ src="https://static.vecteezy.com/system/resources/thumbnails/047/247/650/small/3
 
 ### 👨‍💻 About Me
 - 💬 Ask me about **Full-Stack Web Development | MERN | System Design**
-- 💼 Resume: <a href="#">View Resume</a>
+- 💼 Resume: <a href="https://drive.google.com/file/d/1QB3NuPYKjnRO9Wa4mzHrJl_okuYhRpRb/view?usp=sharing">View Resume</a>
 - 👯 Looking to collaborate on **Full-Stack Projects**
 - ⚡ Quick learner with ~1 year of industry experience
 
