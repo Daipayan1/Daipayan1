@@ -51,7 +51,9 @@ src="https://static.vecteezy.com/system/resources/thumbnails/047/247/650/small/3
 <p>
  <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/c766ab43-adfa-4cc5-a0cf-e7ccc0c5b40f" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/>
-  ![Java]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20" alt="Java Badge" />
+    &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
 </p>
 
 ---
