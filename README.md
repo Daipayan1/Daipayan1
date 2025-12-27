@@ -25,22 +25,22 @@ src="https://static.vecteezy.com/system/resources/thumbnails/047/247/650/small/3
 
 ### 🧠 Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
 </p>
 
 ---
 
 ### 🌐 Frontend
 <p>
-  <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/ace7dbcb-a536-40bc-a3ed-bc03b788cb7b" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="36"/>
+  <img width="36" height="50" alt="image" src="https://github.com/user-attachments/assets/ace7dbcb-a536-40bc-a3ed-bc03b788cb7b" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=blue&logoSize=auto&labelColor=black" height="36">
 
 </p>
@@ -50,17 +50,18 @@ src="https://static.vecteezy.com/system/resources/thumbnails/047/247/650/small/3
 ### 🛠 Backend
 <p>
  <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/c766ab43-adfa-4cc5-a0cf-e7ccc0c5b40f" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20" alt="Java Badge" />
-    &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
 </p>
 
 ---
 
 ### 🔐 Security
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-plain.svg" height="36"/>
+  
+  <img width="36" height="50" alt="image" src="https://github.com/user-attachments/assets/ff092066-b787-4f1e-99e3-fb91cfaa9d1f" />
+
+
 </p>
 
 ---
@@ -87,7 +88,7 @@ src="https://static.vecteezy.com/system/resources/thumbnails/047/247/650/small/3
 |------------|--------------|----------|
 | Junior Software Developer | Ada Software Reengineering Services | Apr 2023 – Oct 2023 |
 | MERN Stack Training | Code Mentors | Jan 2025 – Apr 2025 |
-| Software Developer Intern | [@Elvira Infotech Private Limited](https://elvirainfotech.com/</img>)| May 2025 – Jul 2025 |
+| Software Developer Intern | [@Elvira Infotech Private Limited](https://elvirainfotech.com/)| May 2025 – Jul 2025 |
 
 ---
 
